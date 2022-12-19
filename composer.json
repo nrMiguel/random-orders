@@ -1,0 +1,17 @@
+{
+    "name": "mique/random-orders",
+    "description": "Ejercicio1 Tarea 5 - Creacion del componente con parametros",
+    "autoload": {
+        "psr-4": {
+            "Mique\\RandomOrders\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguelnunezramon1",
+            "email": "miquel1993@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
